@@ -15,3 +15,5 @@
 
 ![image](https://user-images.githubusercontent.com/37221186/39339197-62dcb2cc-4995-11e8-96d0-412897fe5d2b.png)
 
+These images are part of different projects that I had to do for classes.
+
