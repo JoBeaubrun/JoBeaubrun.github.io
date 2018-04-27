@@ -1,19 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/JoBeaubrun/JoBeaubrun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```### Hello everyone! I will be showing a few artifacts from my work throughout the CS program. These artifacts are meant to showcase my strenghts, weaknesses and what I have learned from the past four years. ```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Software design artifact
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## Algorithms artifact
+## Database artifact
 
 - Bulleted
 - List
